@@ -1,0 +1,6 @@
+[package]
+name = "tools-python-ds"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS Python data science notebook cell execution bridge"
+license = "GPL-3.0-or-later"
