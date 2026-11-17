@@ -3,7 +3,7 @@ name = "SigmaOS-tools-python-ds"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "tools-python-ds component"
+description = "tools python ds component"
 upstream = []
 
 [contract]
